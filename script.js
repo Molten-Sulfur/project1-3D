@@ -20,7 +20,7 @@ require([
     position: [
       -90.688, // longitude
       38.065, // latitude
-      2500// elevation in meters
+      2100// elevation in meters
     ],
     tilt: 45,
     heading: 0
